@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <ApplicationIcon />
     <OutputType>Exe</OutputType>
     <StartupObject />
@@ -28,7 +28,7 @@
 
   <ItemGroup>
     <Reference Include="Wox.Plugin">
-      <HintPath>C:\Program Files\PowerToys\modules\launcher\Wox.Plugin.dll</HintPath>
+      <HintPath>C:\Program Files\PowerToys\Wox.Plugin.dll</HintPath>
     </Reference>
   </ItemGroup>
 
